@@ -15,24 +15,24 @@ const Partners = () => {
           شركاء التميز
         </h1>
         <div className="w-full">
-          <div className="flex flex-row justify-center items-start ">
+          <div className="flex flex-row justify-center items-start">
             <div className="flex flex-col justify-center mx-8 items-center">
-              <img src={Apple} alt="Partners" className="w-40 h-40" />
+              <img src={Apple} alt="Partners" className="object-cover" />
             </div>
             <div className="flex flex-col justify-center mx-8 items-center">
-              <img src={Meta} alt="Partners" className="w-40 h-40" />
+              <img src={Meta} alt="Partners" className="object-cover" />
             </div>
             <div className="flex flex-col justify-center mx-8 items-center">
-              <img src={CompTIA} alt="Partners" className="w-40 h-40" />
+              <img src={CompTIA} alt="Partners" className="object-cover" />
             </div>
             <div className="flex flex-col justify-center mx-8 items-center">
-              <img src={IBM} alt="Partners" className="w-40 h-40" />
+              <img src={IBM} alt="Partners" className="object-cover" />
             </div>
             <div className="flex flex-col justify-center mx-8 items-center">
-              <img src={PeopleCert} alt="Partners" className="w-40 h-40" />
+              <img src={PeopleCert} alt="Partners" className="object-cover" />
             </div>
             <div className="flex flex-col justify-center mx-8 items-center">
-              <img src={CertNexus} alt="Partners" className="w-40 h-40" />
+              <img src={CertNexus} alt="Partners" className="object-cover" />
             </div>
           </div>
         </div>
