@@ -1,5 +1,7 @@
 ## Tuwaiq Academy Clone
 
+LIVE DEMO: https://tuwaiq-clone.netlify.app
+
 Features
 
     The app clones the main features of the Tuwaiq Academy website, including the homepage, the about page.
